@@ -1,0 +1,15 @@
+{
+  "resourceName": "s35a9dada5",
+  "policyUUID": "5a9dada5",
+  "bucketName": "bbstorage",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "groupAccess": {}
+}
